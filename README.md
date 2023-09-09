@@ -98,9 +98,9 @@ Make changes and commit them with clear and concise commit messages.
  #### Push your branch to your fork on GitHub.
 Create a pull request with a description of your changes.
 
-Thank you for showing interest in proz! If you have any questions, feedback, or suggestions, feel free to contact me via email or through my GitHub profile. Your input is valuable, and I look forward to enhancing this project together.
+Thank you for showing interest in hng_stage1_task! If you have any questions, feedback, or suggestions, feel free to contact me via email or through my GitHub profile. Your input is valuable, and I look forward to enhancing this project together.
 
-Thank you for showing interest in proz! If you have any questions, feedback, or suggestions, feel free to contact me via email or through my GitHub profile. Your input is valuable, and I look forward to enhancing this project together.
+Thank you for showing interest in hng_stage1_task! If you have any questions, feedback, or suggestions, feel free to contact me via email or through my GitHub profile. Your input is valuable, and I look forward to enhancing this project together.
 
 ### ASSUMPTIONS
-* It is assumed that you have flutter installed on your personal computer, Windows or MAC OS
+* It is assumed that you have flutter installed on your personal computer, Windows or MAC OS before attempting to run this app
